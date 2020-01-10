@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DC</string>
+    <string name="crime_title_hint">请输入标题</string>
+    <string name="crime_title_label">请输入标题~</string>
+    <string name="crime_details_label">细节</string>
+    <string name="crime_solved_label">也有</string>
+    <string name="date_picker_title">时间</string>
+    <string name="new_crime">新增一个事件</string>
+    <string name="show_subtitle">总数</string>
+    <string name="subtitle_format">%1$d 个事件</string>
+    <string name="description">描叙</string>
+    <string name="del_crime">保存</string>
+    <string name="null_text">没有东西  请加</string>
+    <string name="life_star">星</string>
+    <string name="description_d">写点什么吧</string>
+
+
+</resources>

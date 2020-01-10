@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DC</string>
+    <string name="crime_title_hint">Enter a title for the notes.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_title">Date of notes:</string>
+    <string name="new_crime">New Notes</string>
+    <string name="show_subtitle">total</string>
+<!--    <string name="hide_subtitle">Hide Subtitle</string>-->
+    <string name="subtitle_format">%1$d notes</string>
+    <string name="description">Description</string>
+    <string name="del_crime">save notes</string>
+    <string name="null_text">no have notes! please add a new notes</string>
+    <string name="life_star">Star</string>
+    <string name="description_d">just say something!</string>
+</resources>
